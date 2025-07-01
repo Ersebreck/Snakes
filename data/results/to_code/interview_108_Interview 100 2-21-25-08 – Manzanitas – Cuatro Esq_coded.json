@@ -1,0 +1,434 @@
+{
+    "id": "interview_108_Interview 100 2-21-25-08 – Manzanitas – Cuatro Esq",
+    "file_name": "interview_108_Interview 100 2-21-25-08 – Manzanitas – Cuatro Esq.txt",
+    "title": "Interview 100 2-21-25-08 – Manzanitas – Cuatro Esquinas",
+    "messages": [
+        {
+            "utterance_id": "1",
+            "timestamp": "00:00:00.620",
+            "speaker": "Speaker 2",
+            "text": "And what's your name?",
+            "codes": []
+        },
+        {
+            "utterance_id": "2",
+            "timestamp": "00:00:02.740",
+            "speaker": "Speaker 1",
+            "text": "What?",
+            "codes": []
+        },
+        {
+            "utterance_id": "3",
+            "timestamp": "00:00:03.600",
+            "speaker": "Speaker 2",
+            "text": "What's your name?",
+            "codes": []
+        },
+        {
+            "utterance_id": "4",
+            "timestamp": "00:00:05.120",
+            "speaker": "Speaker 1",
+            "text": "My name is Sandalio Nune.",
+            "codes": []
+        },
+        {
+            "utterance_id": "5",
+            "timestamp": "00:00:07.830",
+            "speaker": "Speaker 2",
+            "text": "How old are you?",
+            "codes": []
+        },
+        {
+            "utterance_id": "6",
+            "timestamp": "00:00:09.480",
+            "speaker": "Speaker 1",
+            "text": "83, a bit long.",
+            "codes": []
+        },
+        {
+            "utterance_id": "7",
+            "timestamp": "00:00:11.550",
+            "speaker": "Speaker 2",
+            "text": "And what do you do for a living, if you work?",
+            "codes": []
+        },
+        {
+            "utterance_id": "8",
+            "timestamp": "00:00:16.450",
+            "speaker": "Speaker 1",
+            "text": "Working as a farmer.",
+            "codes": []
+        },
+        {
+            "utterance_id": "9",
+            "timestamp": "00:00:20.140",
+            "speaker": "Speaker 2",
+            "text": "Are you married or single?",
+            "codes": []
+        },
+        {
+            "utterance_id": "10",
+            "timestamp": "00:00:21.970",
+            "speaker": "Speaker 1",
+            "text": "I am married.",
+            "codes": []
+        },
+        {
+            "utterance_id": "11",
+            "timestamp": "00:00:23.690",
+            "speaker": "Speaker 2",
+            "text": "Do you have children?",
+            "codes": []
+        },
+        {
+            "utterance_id": "12",
+            "timestamp": "00:00:25.030",
+            "speaker": "Speaker 1",
+            "text": "Five.",
+            "codes": []
+        },
+        {
+            "utterance_id": "13",
+            "timestamp": "00:00:26.310",
+            "speaker": "Speaker 2",
+            "text": "And how many years have you lived in El Carmen?",
+            "codes": []
+        },
+        {
+            "utterance_id": "14",
+            "timestamp": "00:00:30.200",
+            "speaker": "Speaker 1",
+            "text": "I was almost born then, in '88.",
+            "codes": []
+        },
+        {
+            "utterance_id": "15",
+            "timestamp": "00:00:33.920",
+            "speaker": "Speaker 2",
+            "text": "So, do you think it's likely that you'll get bitten by a snake here? Do you think it's a possibility? Do you think it's likely that you'll get bitten by a snake here?",
+            "codes": []
+        },
+        {
+            "utterance_id": "16",
+            "timestamp": "00:00:49.900",
+            "speaker": "Speaker 1",
+            "text": "Is she dying? You're killing her.",
+            "codes": []
+        },
+        {
+            "utterance_id": "17",
+            "timestamp": "00:00:54.040",
+            "speaker": "Speaker 2",
+            "text": "Do you think it's likely that you'll get bitten by a snake here? Can you tell?",
+            "codes": []
+        },
+        {
+            "utterance_id": "18",
+            "timestamp": "00:01:02.100",
+            "speaker": "Speaker 1",
+            "text": "Whether you think it's likely that you'll be bitten by a snake here. Of course.",
+            "codes": []
+        },
+        {
+            "utterance_id": "19",
+            "timestamp": "00:01:08.410",
+            "speaker": "Speaker 2",
+            "text": "Yes. Why?",
+            "codes": []
+        },
+        {
+            "utterance_id": "20",
+            "timestamp": "00:01:10.130",
+            "speaker": "Speaker 1",
+            "text": "Because you're walking or the person is walking around when the two of you are together. And then, out of all of this, it gets twisted.",
+            "codes": []
+        },
+        {
+            "utterance_id": "21",
+            "timestamp": "00:01:19.690",
+            "speaker": "Speaker 2",
+            "text": "Have any of your animals, such as pets, been bitten by a snake?",
+            "codes": []
+        },
+        {
+            "utterance_id": "22",
+            "timestamp": "00:01:29.240",
+            "speaker": "Speaker 1",
+            "text": "No, not here, not yet.",
+            "codes": []
+        },
+        {
+            "utterance_id": "23",
+            "timestamp": "00:01:32.660",
+            "speaker": "Speaker 2",
+            "text": "And do you know how to prevent or avoid a snake bite? Yes, I do.",
+            "codes": []
+        },
+        {
+            "utterance_id": "24",
+            "timestamp": "00:01:40.870",
+            "speaker": "Speaker 1",
+            "text": "As a first step, kill her, make her go over to your side.",
+            "codes": []
+        },
+        {
+            "utterance_id": "25",
+            "timestamp": "00:01:47.910",
+            "speaker": "Speaker 2",
+            "text": "And before it bites you Yes, okay, fine. And what would you do if a snake bit you?",
+            "codes": []
+        },
+        {
+            "utterance_id": "26",
+            "timestamp": "00:01:57.130",
+            "speaker": "Speaker 1",
+            "text": "Let's find the most homemade, most necessary remedies we can.",
+            "codes": []
+        },
+        {
+            "utterance_id": "27",
+            "timestamp": "00:02:05.050",
+            "speaker": "Speaker 2",
+            "text": "And give him one, take one alcohol, petroleum.",
+            "codes": []
+        },
+        {
+            "utterance_id": "28",
+            "timestamp": "00:02:11.310",
+            "speaker": "Speaker 1",
+            "text": "Those are the precautions one takes.",
+            "codes": []
+        },
+        {
+            "utterance_id": "29",
+            "timestamp": "00:02:19.300",
+            "speaker": "Speaker 2",
+            "text": "And would you go to the hospital too, or not?",
+            "codes": []
+        },
+        {
+            "utterance_id": "30",
+            "timestamp": "00:02:24.400",
+            "speaker": "Speaker 1",
+            "text": "Also to the hospital, because from here they send him wherever they want.",
+            "codes": []
+        },
+        {
+            "utterance_id": "31",
+            "timestamp": "00:02:30.010",
+            "speaker": "Speaker 2",
+            "text": "Would you go to the hospital in Carmen first?",
+            "codes": []
+        },
+        {
+            "utterance_id": "32",
+            "timestamp": "00:02:34.370",
+            "speaker": "Speaker 1",
+            "text": "Yes, first aid is provided by Carmen.",
+            "codes": []
+        },
+        {
+            "utterance_id": "33",
+            "timestamp": "00:02:39.950",
+            "speaker": "Speaker 2",
+            "text": "And would you trust the hospital in Carmen to treat a snake bite?",
+            "codes": []
+        },
+        {
+            "utterance_id": "34",
+            "timestamp": "00:02:46.050",
+            "speaker": "Speaker 1",
+            "text": "It is possible that, because there is a serum called antipholiate, you will need to apply that serum. There you have it.",
+            "codes": []
+        },
+        {
+            "utterance_id": "35",
+            "timestamp": "00:02:56.820",
+            "speaker": "Speaker 2",
+            "text": "Yes, okay. Right. And would you trust other hospitals to treat a snake bite?",
+            "codes": []
+        },
+        {
+            "utterance_id": "36",
+            "timestamp": "00:03:09.390",
+            "speaker": "Speaker 1",
+            "text": "They also heal them.",
+            "codes": []
+        },
+        {
+            "utterance_id": "37",
+            "timestamp": "00:03:13.220",
+            "speaker": "Speaker 2",
+            "text": "Which other hospitals? Which ones? Giraldó, Espinal, or others?",
+            "codes": []
+        },
+        {
+            "utterance_id": "38",
+            "timestamp": "00:03:20.640",
+            "speaker": "Speaker 1",
+            "text": "Espinal, Giraldó. Even Bogotá has been touched by death, and those who have died did not expect to live.",
+            "codes": []
+        },
+        {
+            "utterance_id": "39",
+            "timestamp": "00:03:30.570",
+            "speaker": "Speaker 2",
+            "text": "And where do you feel most likely to be bitten by a snake? In the countryside or at home?",
+            "codes": []
+        },
+        {
+            "utterance_id": "40",
+            "timestamp": "00:03:38.850",
+            "speaker": "Speaker 1",
+            "text": "Everywhere. In the village, snakes appear in the house. Of course. Here, in bed, and they've appeared to me. How scary.",
+            "codes": []
+        },
+        {
+            "utterance_id": "41",
+            "timestamp": "00:03:48.930",
+            "speaker": "Speaker 2",
+            "text": "Yes.",
+            "codes": []
+        },
+        {
+            "utterance_id": "42",
+            "timestamp": "00:03:50.130",
+            "speaker": "Speaker 1",
+            "text": "And when I go to bed and I see it there, I put my pants on. That cold feeling on my legs, yes. Don't let anyone see it. There you go. One size smaller.",
+            "codes": []
+        },
+        {
+            "utterance_id": "43",
+            "timestamp": "00:04:00.290",
+            "speaker": "Speaker 2",
+            "text": "A size?",
+            "codes": []
+        },
+        {
+            "utterance_id": "44",
+            "timestamp": "00:04:01.250",
+            "speaker": "Speaker 1",
+            "text": "Size X.",
+            "codes": []
+        },
+        {
+            "utterance_id": "45",
+            "timestamp": "00:04:02.340",
+            "speaker": "Speaker 2",
+            "text": "But he didn't bite you.",
+            "codes": []
+        },
+        {
+            "utterance_id": "46",
+            "timestamp": "00:04:06.780",
+            "speaker": "Speaker 1",
+            "text": "No, it didn't bite me. It just got in there easily.",
+            "codes": []
+        },
+        {
+            "utterance_id": "47",
+            "timestamp": "00:04:11.160",
+            "speaker": "Speaker 2",
+            "text": "And do you know how to identify poisonous and non-poisonous snakes?",
+            "codes": []
+        },
+        {
+            "utterance_id": "48",
+            "timestamp": "00:04:17.660",
+            "speaker": "Speaker 1",
+            "text": "Who knows? If I know Identify them, poisonous or not poisonous? Yes, but the thing is that all snakes bite. And they kill people if they don't get first aid in time. They tell me: \"Oh, I have one there, Clemente, the muletico, the digueti lodo, he has fingers like this, all twisted, from a snake bite when he was a kid, but then my uncle was going to work. My dad Roso, over there in the box, my grandfather was also bitten by one like that, three days ago. Pantaleón, brother, Ignacio Castro, that was in the moor, he was bitten, but by a very big snake like that.",
+            "codes": []
+        },
+        {
+            "utterance_id": "49",
+            "timestamp": "00:05:16.570",
+            "speaker": "Speaker 2",
+            "text": "Do you know of any other cases of snake bites?",
+            "codes": []
+        },
+        {
+            "utterance_id": "50",
+            "timestamp": "00:05:21.820",
+            "speaker": "Speaker 1",
+            "text": "No, it's almost a bite. We know it's caused by the gulebra, which bites. That's why the person dies.",
+            "codes": []
+        },
+        {
+            "utterance_id": "51",
+            "timestamp": "00:05:34.990",
+            "speaker": "Speaker 2",
+            "text": "And, well, that's all I have. Do you have anything else to say about snakes or more knowledge about snakes?",
+            "codes": []
+        },
+        {
+            "utterance_id": "52",
+            "timestamp": "00:05:43.780",
+            "speaker": "Speaker 1",
+            "text": "No, no, it's right there. That's all we know.",
+            "codes": []
+        },
+        {
+            "utterance_id": "53",
+            "timestamp": "00:05:49.140",
+            "speaker": "Speaker 2",
+            "text": "Okay. And yes, well, it's important to go to the hospital after a snake bite.",
+            "codes": []
+        },
+        {
+            "utterance_id": "54",
+            "timestamp": "00:05:58.790",
+            "speaker": "Speaker 1",
+            "text": "The hospital, get first aid first.",
+            "codes": []
+        },
+        {
+            "utterance_id": "55",
+            "timestamp": "00:06:02.340",
+            "speaker": "Speaker 2",
+            "text": "And if not, María Cerna, Novillo's wife, the Serna's mother, died that way, and that's what killed the lady.",
+            "codes": []
+        },
+        {
+            "utterance_id": "56",
+            "timestamp": "00:06:13.140",
+            "speaker": "Speaker 1",
+            "text": "How awful, how sad.",
+            "codes": []
+        },
+        {
+            "utterance_id": "57",
+            "timestamp": "00:06:19.950",
+            "speaker": "Speaker 2",
+            "text": "Yes. Thank you very much for your time. You're welcome. Yes. And it's also important to know what kind of snake bit you. You can take a picture of the snake or kill it and take it to the hospital.",
+            "codes": []
+        },
+        {
+            "utterance_id": "58",
+            "timestamp": "00:06:39.300",
+            "speaker": "Speaker 1",
+            "text": "Yes, sir.",
+            "codes": []
+        },
+        {
+            "utterance_id": "59",
+            "timestamp": "00:06:40.100",
+            "speaker": "Speaker 2",
+            "text": "It's important because there are different antivenoms for different snakes. Yes, ma'am. Yes. But thank you. You're welcome. Very kind. Yes, sir. Thank you very much.",
+            "codes": []
+        },
+        {
+            "utterance_id": "60",
+            "timestamp": "00:06:53.990",
+            "speaker": "Speaker 1",
+            "text": "That you can give me some information. They bite the cattle too. I kill cows there, one here and another there. Very healthy cows. They didn't notice in time.",
+            "codes": []
+        },
+        {
+            "utterance_id": "61",
+            "timestamp": "00:07:12.850",
+            "speaker": "Speaker 2",
+            "text": "Yes, sir. That's too bad.",
+            "codes": []
+        }
+    ]
+}

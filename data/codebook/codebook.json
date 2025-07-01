@@ -1,0 +1,247 @@
+[
+  {
+    "code_id": "Perceived snakebite risk (perceived risk)",
+    "label": "Perceived snakebite risk (perceived risk)",
+    "description": "Comments on whether the individual feels that he is at risk of snake bite in his community.",
+    "notes": "See son codes: Do not perceive risk, in the field, at home, both, location: another.",
+    "child_codes": [
+      "Do not perceive risk",
+      "In the field",
+      "at home",
+      "both",
+      "Location: another"
+    ]
+  },
+  {
+    "code_id": "Perceived snakebite risk (no perceived risk)",
+    "label": "Perceived snakebite risk (no perceived risk)",
+    "description": "The individual does not perceive a risk of bite.",
+    "notes": "Son code of the previous one.",
+    "child_codes": [
+      "of the previous one"
+    ]
+  },
+  {
+    "code_id": "Perceived snakebite risk in the field",
+    "label": "Perceived snakebite risk in the field",
+    "description": "The risk is perceived and considered greater in the field.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Perceived snakebite risk in the home",
+    "label": "Perceived snakebite risk in the home",
+    "description": "The risk is perceived and is considered greater in the home.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Perceived snakebite risk in the field and at home",
+    "label": "Perceived snakebite risk in the field and at home",
+    "description": "The risk is perceived the same at home and in the field.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Perceived snakebite risk (location: other)",
+    "label": "Perceived snakebite risk (location: other)",
+    "description": "The risk is perceived in a location other than the field or home.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Prevention knowledge (accurate)",
+    "label": "Prevention knowledge (accurate)",
+    "description": "Appropriate knowledge about how to prevent bites. Ex.: Flashlight, boots, cleaning.",
+    "notes": "See Son Codes: Untasted, Inaccureate, No Knowledge, Misunderstanding.",
+    "child_codes": [
+      "Untasted",
+      "Inaccureate",
+      "NO KNOWLEDGE",
+      "Misunderstanding"
+    ]
+  },
+  {
+    "code_id": "Prevention knowledge (other)",
+    "label": "Prevention knowledge (other)",
+    "description": "Non -validated or unknown response. Ex.: Criolina.",
+    "notes": "\"Accurate\" son code.",
+    "child_codes": [
+      "\"Accurate\""
+    ]
+  },
+  {
+    "code_id": "Prevention knowledge (inaccurate)",
+    "label": "Prevention knowledge (inaccurate)",
+    "description": "Inappropriate knowledge to prevent bites.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Prevention knowledge (no knowledge)",
+    "label": "Prevention knowledge (no knowledge)",
+    "description": "The participant indicates not knowing how to prevent bites.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Prevention knowledge (misunderstanding of prevention)",
+    "label": "Prevention knowledge (misunderstanding of prevention)",
+    "description": "The participant confuses treatment with treatment.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Treatment knowledge (accurate)",
+    "label": "Treatment knowledge (accurate)",
+    "description": "Appropriate knowledge about what to do after a bite.",
+    "notes": "",
+    "child_codes": []
+  },
+  {
+    "code_id": "Treatment knowledge (inaccurate)",
+    "label": "Treatment knowledge (inaccurate)",
+    "description": "Inappropriate knowledge about treatment after a bite.",
+    "notes": "",
+    "child_codes": []
+  },
+  {
+    "code_id": "Healthcare service logistics (positive)",
+    "label": "Healthcare service logistics (positive)",
+    "description": "Positive opinion about the process to receive medical care.",
+    "notes": "See Son Codes: Neutral, Negative.",
+    "child_codes": [
+      "neutral",
+      "negative"
+    ]
+  },
+  {
+    "code_id": "Healthcare service logistics (neutral)",
+    "label": "Healthcare service logistics (neutral)",
+    "description": "Neutral opinion on the process.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Healthcare service logistics (negative)",
+    "label": "Healthcare service logistics (negative)",
+    "description": "Negative opinion about the process.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Healthcare system trust (mistrust in hospital in Carmen)",
+    "label": "Healthcare system trust (mistrust in hospital in Carmen)",
+    "description": "Distrust of El Carmen de Apicalá hospital.",
+    "notes": "See Son Codes: General, Trust, Mistrust/Trust in/Outsis.",
+    "child_codes": [
+      "general",
+      "trust",
+      "Mistrust/Trust in/outside"
+    ]
+  },
+  {
+    "code_id": "Healthcare system trust (general)",
+    "label": "Healthcare system trust (general)",
+    "description": "General trust in the health system to treat bites.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Healthcare system trust (trust in hospital in Carmen)",
+    "label": "Healthcare system trust (trust in hospital in Carmen)",
+    "description": "Specific trust at El Carmen Hospital.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Healthcare system trust (mistrust in hospitals outside)",
+    "label": "Healthcare system trust (mistrust in hospitals outside)",
+    "description": "Distrust of hospitals outside El Carmen.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Healthcare system trust (trust in hospitals outside)",
+    "label": "Healthcare system trust (trust in hospitals outside)",
+    "description": "Trust towards hospitals outside El Carmen.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Access to healthcare (accessible)",
+    "label": "Access to healthcare (accessible)",
+    "description": "The participant considers that they can access health services.",
+    "notes": "",
+    "child_codes": []
+  },
+  {
+    "code_id": "Access to healthcare (inaccessible)",
+    "label": "Access to healthcare (inaccessible)",
+    "description": "The participant considers that he cannot access health services.",
+    "notes": "",
+    "child_codes": []
+  },
+  {
+    "code_id": "Snake identification knowledge (accurate)",
+    "label": "Snake identification knowledge (accurate)",
+    "description": "Appropriate capacity to identify snake species.",
+    "notes": "See Son Codes: Inaccureate, no Knowledge, Unknown.",
+    "child_codes": [
+      "Inaccureate",
+      "NO KNOWLEDGE",
+      "Unknown"
+    ]
+  },
+  {
+    "code_id": "Snake identification knowledge (inaccurate)",
+    "label": "Snake identification knowledge (inaccurate)",
+    "description": "Inability to correctly identify snake species.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Snake identification knowledge (no knowledge)",
+    "label": "Snake identification knowledge (no knowledge)",
+    "description": "He has no knowledge about snake identification.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Snake identification knowledge (unknown)",
+    "label": "Snake identification knowledge (unknown)",
+    "description": "Local knowledge with proper names, it can be necessary or not.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Snakebite experience",
+    "label": "Snakebite experience",
+    "description": "Own experience or acquaintances with bites.",
+    "notes": "See Son Code: Mortality Experience.",
+    "child_codes": [
+      "Mortality Experience"
+    ]
+  },
+  {
+    "code_id": "Snakebite mortality experience",
+    "label": "Snakebite mortality experience",
+    "description": "Ported experience that resulted in death.",
+    "notes": "Son code.",
+    "child_codes": []
+  },
+  {
+    "code_id": "Doubt",
+    "label": "Doubt",
+    "description": "Doubt is perceived in the participant's response.",
+    "notes": "",
+    "child_codes": []
+  },
+  {
+    "code_id": "Misunderstanding of the question",
+    "label": "Misunderstanding of the question",
+    "description": "The participant seems to have misunderstood the question.",
+    "notes": "",
+    "child_codes": []
+  }
+]

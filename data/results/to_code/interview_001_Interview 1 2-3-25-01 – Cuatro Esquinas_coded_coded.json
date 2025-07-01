@@ -1,0 +1,392 @@
+{
+    "id": "interview_001_Interview 1 2-3-25-01 – Cuatro Esquinas_coded",
+    "file_name": "interview_001_Interview 1 2-3-25-01 – Cuatro Esquinas_coded.txt",
+    "title": "Interview 1 2-3-25-01 – Cuatro Esquinas",
+    "messages": [
+        {
+            "utterance_id": "1",
+            "timestamp": "00:00:06.560",
+            "speaker": "Speaker 2",
+            "text": "27 y/o, woman, free union, 27 years living in El Carmen, work at home, has children",
+            "codes": []
+        },
+        {
+            "utterance_id": "2",
+            "timestamp": "00:00:08.200",
+            "speaker": "Speaker 1",
+            "text": "23. 27, sorry. Give me a year, if you see. He takes away the years. He takes away the years.",
+            "codes": []
+        },
+        {
+            "utterance_id": "3",
+            "timestamp": "00:00:15.890",
+            "speaker": "Speaker 2",
+            "text": "And what do you do for a living?",
+            "codes": []
+        },
+        {
+            "utterance_id": "4",
+            "timestamp": "00:00:18.220",
+            "speaker": "Speaker 1",
+            "text": "At my house.",
+            "codes": []
+        },
+        {
+            "utterance_id": "5",
+            "timestamp": "00:00:21.520",
+            "speaker": "Speaker 2",
+            "text": "And are you married or single?",
+            "codes": []
+        },
+        {
+            "utterance_id": "6",
+            "timestamp": "00:00:23.430",
+            "speaker": "Speaker 1",
+            "text": "Free union.",
+            "codes": []
+        },
+        {
+            "utterance_id": "7",
+            "timestamp": "00:00:25.310",
+            "speaker": "Speaker 2",
+            "text": "And how many children do you have?",
+            "codes": []
+        },
+        {
+            "utterance_id": "8",
+            "timestamp": "00:00:27.500",
+            "speaker": "Speaker 1",
+            "text": "One.",
+            "codes": []
+        },
+        {
+            "utterance_id": "9",
+            "timestamp": "00:00:28.910",
+            "speaker": "Speaker 2",
+            "text": "And how many years have you lived in El Carmen?",
+            "codes": []
+        },
+        {
+            "utterance_id": "10",
+            "timestamp": "00:00:32.940",
+            "speaker": "Speaker 1",
+            "text": "All my life. Okay.",
+            "codes": []
+        },
+        {
+            "utterance_id": "11",
+            "timestamp": "00:00:35.990",
+            "speaker": "Speaker 2",
+            "text": "Do you think it's likely that you'll be bitten by a snake here in Carmen?",
+            "codes": []
+        },
+        {
+            "utterance_id": "12",
+            "timestamp": "00:00:43.350",
+            "speaker": "Speaker 1",
+            "text": "Well, here in the countryside we are all exposed. Yes.",
+            "codes": []
+        },
+        {
+            "utterance_id": "13",
+            "timestamp": "00:00:47.820",
+            "speaker": "Speaker 2",
+            "text": "And why do you feel this way?",
+            "codes": []
+        },
+        {
+            "utterance_id": "14",
+            "timestamp": "00:00:52.830",
+            "speaker": "Speaker 1 :coding: (Perceived snakebite risk (perceived risk))",
+            "text": "Exposed to the possibility of being stung. Well, seeing as we're out in the countryside, we can find animals anywhere. We've even found three snakes here in the house already. So, we're exposed to the possibility that we might suddenly see them or something, and then at that moment they could sting us.",
+            "codes": []
+        },
+        {
+            "utterance_id": "15",
+            "timestamp": "00:01:12.120",
+            "speaker": "Speaker 2",
+            "text": "And have any of your animals been bitten by a snake?",
+            "codes": []
+        },
+        {
+            "utterance_id": "16",
+            "timestamp": "00:01:16.280",
+            "speaker": "Speaker 1",
+            "text": "No, thank God, no.",
+            "codes": []
+        },
+        {
+            "utterance_id": "17",
+            "timestamp": "00:01:20.150",
+            "speaker": "Speaker 2",
+            "text": "And do you know how to prevent a snakebite?",
+            "codes": []
+        },
+        {
+            "utterance_id": "18",
+            "timestamp": "00:01:25.270",
+            "speaker": "Speaker 1 :coding: Prevention knowledge (other)",
+            "text": "From what I've heard, no. Many people tell me that to scare them away from the house and keep them away, they use a device called a Criolina, which makes them move away. Well, that's a myth, I don't know if it's true or not. Well, what are we going to do, but they still got in.",
+            "codes": []
+        },
+        {
+            "utterance_id": "19",
+            "timestamp": "00:01:44.550",
+            "speaker": "Speaker 2",
+            "text": "Okay, perfect. Those are the methods of prevention, you know.",
+            "codes": []
+        },
+        {
+            "utterance_id": "20",
+            "timestamp": "00:01:49.770",
+            "speaker": "Speaker 1 :coding: (Prevention knowledge (accurate))",
+            "text": "And the cleaning, but nevertheless, we are here, pass a hose, then they are also many to the wet.",
+            "codes": []
+        },
+        {
+            "utterance_id": "21",
+            "timestamp": "00:01:58.090",
+            "speaker": "Speaker 2",
+            "text": "Yes, exactly.",
+            "codes": []
+        },
+        {
+            "utterance_id": "22",
+            "timestamp": "00:01:59.690",
+            "speaker": "Speaker 1 :coding: Prevention knowledge (accurate)",
+            "text": "No Yes, to having my eyes open at all times.",
+            "codes": []
+        },
+        {
+            "utterance_id": "23",
+            "timestamp": "00:02:02.930",
+            "speaker": "Speaker 2",
+            "text": "And what would you do if you were bitten by a snake?",
+            "codes": []
+        },
+        {
+            "utterance_id": "24",
+            "timestamp": "00:02:13.980",
+            "speaker": "Speaker 1 :coding: Treatment knowledge (inaccurate)",
+            "text": "I don't know what reaction I would have. The only thing I have heard is that you have to act like a tourniquet to stop the poison, but I don't know if it's true or not. I've heard something else about absorbing the sting. But I listened and there was a training session, they told me that it wasn't true, that it was false, because you were also ingesting the poison that you were taking, something like that is what I heard.",
+            "codes": []
+        },
+        {
+            "utterance_id": "25",
+            "timestamp": "00:02:42.360",
+            "speaker": "Speaker 2",
+            "text": "And would you trust the hospital, Carmen de Apicala, to cure a snake bite?",
+            "codes": []
+        },
+        {
+            "utterance_id": "26",
+            "timestamp": "00:02:56.860",
+            "speaker": "Speaker 1 :coding: Healthcare system trust (mistrust in the hospital in Carmen)",
+            "text": "Am I being honest with you? No. Okay.",
+            "codes": []
+        },
+        {
+            "utterance_id": "27",
+            "timestamp": "00:02:58.270",
+            "speaker": "Speaker 2",
+            "text": "Why?",
+            "codes": []
+        },
+        {
+            "utterance_id": "28",
+            "timestamp": "00:02:59.510",
+            "speaker": "Speaker 1 :coding: Healthcare system trust (mistrust in the hospital in Carmen)",
+            "text": "Because, well, if they only present themselves, well here in the hospital there are mild cases, sometimes it's stomach pain, re-fracture and everything here is very delayed. They don't give you the proper attention that you should get. If you don't ask for a voluntary discharge to go somewhere else where you really do receive proper attention, well here they practically left us, we were left to die, to put it another way.",
+            "codes": []
+        },
+        {
+            "utterance_id": "29",
+            "timestamp": "00:03:25.760",
+            "speaker": "Speaker 2",
+            "text": "And do you have and trust areas in another hospital close to Carmen de Apicalá?",
+            "codes": []
+        },
+        {
+            "utterance_id": "30",
+            "timestamp": "00:03:35.450",
+            "speaker": "Speaker 1 :coding: Healthcare system trust (trust in hospitals outside of Carmen)",
+            "text": "A hospital near Carmen de Apicalá, because I always go, is for Melgar or for Girardó, to one of the two places, the clinic with the subsidy or the hospital for my age. Most of all, I go to the clinic with a subsidy.",
+            "codes": []
+        },
+        {
+            "utterance_id": "31",
+            "timestamp": "00:03:48.320",
+            "speaker": "Speaker 2",
+            "text": "Why?",
+            "codes": []
+        },
+        {
+            "utterance_id": "32",
+            "timestamp": "00:03:50.290",
+            "speaker": "Speaker 1 :coding: Healthcare system trust (trust in hospitals outside of Carmen)",
+            "text": "Well, I have received better and faster service.",
+            "codes": []
+        },
+        {
+            "utterance_id": "33",
+            "timestamp": "00:03:55.800",
+            "speaker": "Speaker 2",
+            "text": "And what would you do if a family member was bitten by a snake?",
+            "codes": []
+        },
+        {
+            "utterance_id": "34",
+            "timestamp": "00:04:02.220",
+            "speaker": "Speaker 1 :coding: Treatment knowledge (accurate)",
+            "text": "No, the fastest thing to do is to go to a medical center, right? Yes. Because, really, I don't know how to give first aid to someone who has been bitten. We haven't been given that kind of training here, even though we are exposed to snake bites. Let's see how we can act in the face of such a process.",
+            "codes": []
+        },
+        {
+            "utterance_id": "35",
+            "timestamp": "00:04:29.160",
+            "speaker": "Speaker 2",
+            "text": "Yes, okay. And don't you use a tourniquet for your family?",
+            "codes": []
+        },
+        {
+            "utterance_id": "36",
+            "timestamp": "00:04:35.370",
+            "speaker": "Speaker 1 :coding: Treatment knowledge (inaccurate)",
+            "text": "Well, about the time that I Well, what I said about a tourniquet not working quickly, well, it would work by means of the tourniquet, because that's how I would say it, or the way I know that supposedly the snake's venom doesn't work quickly.",
+            "codes": []
+        },
+        {
+            "utterance_id": "37",
+            "timestamp": "00:04:52.480",
+            "speaker": "Speaker 2",
+            "text": "Yes, okay, done. And where do you feel it is more likely that a snake will bite you? In the countryside or at home?",
+            "codes": []
+        },
+        {
+            "utterance_id": "38",
+            "timestamp": "00:05:05.970",
+            "speaker": "Speaker 1 :coding: Perceived snakebite risk (location: other)",
+            "text": "I would say everywhere. Being here, I would say that we are exposed everywhere. And I can tell you that we have already found snakes right here, even under the bed. So, they are on the road. Sometimes you are on the motorbike and you come across them just by going past the road. So, you can find a snake here anywhere.",
+            "codes": []
+        },
+        {
+            "utterance_id": "39",
+            "timestamp": "00:05:27.990",
+            "speaker": "Speaker 2",
+            "text": "Do you know how to identify poisonous or venomous snakes?",
+            "codes": []
+        },
+        {
+            "utterance_id": "40",
+            "timestamp": "00:05:34.130",
+            "speaker": "Speaker 1 :coding: Snake identification (no knowledge)",
+            "text": "That I don't know.",
+            "codes": []
+        },
+        {
+            "utterance_id": "41",
+            "timestamp": "00:05:35.090",
+            "speaker": "Speaker 2",
+            "text": "It's difficult.",
+            "codes": []
+        },
+        {
+            "utterance_id": "42",
+            "timestamp": "00:05:36.110",
+            "speaker": "Speaker 1 :coding: Snake identification (no knowledge)",
+            "text": "That I don't know. The person who does know more or less is my husband. And when I find them I'll ask him what kind of snake it is, he'll more or less tell me the name. Yes. But",
+            "codes": []
+        },
+        {
+            "utterance_id": "43",
+            "timestamp": "00:05:46.340",
+            "speaker": "Speaker 2",
+            "text": "It's difficult, if a false or",
+            "codes": []
+        },
+        {
+            "utterance_id": "44",
+            "timestamp": "00:05:49.280",
+            "speaker": "Speaker 1",
+            "text": "Yes, exactly.",
+            "codes": []
+        },
+        {
+            "utterance_id": "45",
+            "timestamp": "00:05:51.720",
+            "speaker": "Speaker 2",
+            "text": "Okay. And are there challenges or problems? And how do you go about preventing snake bites in Carmen?",
+            "codes": []
+        },
+        {
+            "utterance_id": "46",
+            "timestamp": "00:06:04.970",
+            "speaker": "Speaker 1 :coding: Perceived snakebite risk (perceived risk), prevention knowledge (no knowledge)",
+            "text": "Do you think so? Well, as I said before, there's no one here who can tell us how to prevent that. Not through any channel. You see here that they train you as a kind of I would say it would be a kind of training in how to act. If there is a way to prevent it or a way to act if there is a bite, or what can we do to keep the maids from getting bitten? Or at least prevent it in the home, which is where you are most... Or in the part where you work in the fields, you are always going to be at risk.",
+            "codes": []
+        },
+        {
+            "utterance_id": "47",
+            "timestamp": "00:06:45.000",
+            "speaker": "Speaker 2",
+            "text": "And also a similar question, but are there challenges or problems in treating snake bites in Carmen de la Picada?",
+            "codes": []
+        },
+        {
+            "utterance_id": "48",
+            "timestamp": "00:06:59.880",
+            "speaker": "Speaker 1",
+            "text": "No, I might give you the same answer.",
+            "codes": []
+        },
+        {
+            "utterance_id": "49",
+            "timestamp": "00:07:02.560",
+            "speaker": "Speaker 2",
+            "text": "Yes, exactly. And what would be useful in facing these challenges?",
+            "codes": []
+        },
+        {
+            "utterance_id": "50",
+            "timestamp": "00:07:11.970",
+            "speaker": "Speaker 1 :coding: Perceived snakebite risk (no knowledge)",
+            "text": "As I mentioned before, training. Yes, someone to tell us.",
+            "codes": []
+        },
+        {
+            "utterance_id": "51",
+            "timestamp": "00:07:19.600",
+            "speaker": "Speaker 2",
+            "text": "And the last question is: do you know of any cases of snake-grinding?",
+            "codes": []
+        },
+        {
+            "utterance_id": "52",
+            "timestamp": "00:07:26.550",
+            "speaker": "Speaker 1 :coding: Snakebite experience",
+            "text": "The lady present. Yes. Okay, ready.",
+            "codes": []
+        },
+        {
+            "utterance_id": "53",
+            "timestamp": "00:07:37.850",
+            "speaker": "Speaker 2",
+            "text": "Do you have anything else to say?",
+            "codes": []
+        },
+        {
+            "utterance_id": "54",
+            "timestamp": "00:07:40.130",
+            "speaker": "Speaker 1",
+            "text": "No.",
+            "codes": []
+        },
+        {
+            "utterance_id": "55",
+            "timestamp": "00:07:40.940",
+            "speaker": "Speaker 2",
+            "text": "Okay. Thank you very much. Okay, perfect. Thank you very much.",
+            "codes": []
+        }
+    ]
+}

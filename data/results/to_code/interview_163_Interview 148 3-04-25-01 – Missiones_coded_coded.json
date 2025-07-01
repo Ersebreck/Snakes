@@ -1,0 +1,364 @@
+{
+    "id": "interview_163_Interview 148 3-04-25-01 – Missiones_coded",
+    "file_name": "interview_163_Interview 148 3-04-25-01 – Missiones_coded.txt",
+    "title": "Interview 148 3-04-25-01 – Missiones",
+    "messages": [
+        {
+            "utterance_id": "1",
+            "timestamp": "00:00:00.850",
+            "speaker": "Speaker 2",
+            "text": "What's your name?",
+            "codes": []
+        },
+        {
+            "utterance_id": "2",
+            "timestamp": "00:00:02.230",
+            "speaker": "Speaker 1",
+            "text": "Juan Pablo.",
+            "codes": []
+        },
+        {
+            "utterance_id": "3",
+            "timestamp": "00:00:03.240",
+            "speaker": "Speaker 2",
+            "text": "And do you agree with the interview in the recording?",
+            "codes": []
+        },
+        {
+            "utterance_id": "4",
+            "timestamp": "00:00:08.150",
+            "speaker": "Speaker 1",
+            "text": "Yes, it is.",
+            "codes": []
+        },
+        {
+            "utterance_id": "5",
+            "timestamp": "00:00:10.400",
+            "speaker": "Speaker 2",
+            "text": "How old are you?",
+            "codes": []
+        },
+        {
+            "utterance_id": "6",
+            "timestamp": "00:00:12.040",
+            "speaker": "Speaker 1",
+            "text": "I am 52 years old.",
+            "codes": []
+        },
+        {
+            "utterance_id": "7",
+            "timestamp": "00:00:14.360",
+            "speaker": "Speaker 2",
+            "text": "And what do you do for a living? What do you do for a living?",
+            "codes": []
+        },
+        {
+            "utterance_id": "8",
+            "timestamp": "00:00:16.800",
+            "speaker": "Speaker 1",
+            "text": "I work here on the farm. Hello. Weeding, spraying, checking on the animals, the buffalo.",
+            "codes": []
+        },
+        {
+            "utterance_id": "9",
+            "timestamp": "00:00:27.190",
+            "speaker": "Speaker 2",
+            "text": "The buffalo are theirs, yes. Yes. And are you married or single?",
+            "codes": []
+        },
+        {
+            "utterance_id": "10",
+            "timestamp": "00:00:35.150",
+            "speaker": "Speaker 1",
+            "text": "No, because I'm in a common-law marriage with her.",
+            "codes": []
+        },
+        {
+            "utterance_id": "11",
+            "timestamp": "00:00:39.540",
+            "speaker": "Speaker 2",
+            "text": "Do you have children?",
+            "codes": []
+        },
+        {
+            "utterance_id": "12",
+            "timestamp": "00:00:41.040",
+            "speaker": "Speaker 1",
+            "text": "Yes, but not with her.",
+            "codes": []
+        },
+        {
+            "utterance_id": "13",
+            "timestamp": "00:00:44.240",
+            "speaker": "Speaker 2",
+            "text": "And how many years have you lived here, in Carmen?",
+            "codes": []
+        },
+        {
+            "utterance_id": "14",
+            "timestamp": "00:00:47.710",
+            "speaker": "Speaker 1",
+            "text": "I've been here more than anyone else. Everything has happened here. I used to live here.",
+            "codes": []
+        },
+        {
+            "utterance_id": "15",
+            "timestamp": "00:00:54.620",
+            "speaker": "Speaker 2",
+            "text": "And, well, do you think it's likely that you'll get bitten by a snake here?",
+            "codes": []
+        },
+        {
+            "utterance_id": "16",
+            "timestamp": "00:01:01.490",
+            "speaker": "Speaker 1",
+            "text": "What do you mean? That a snake suddenly bites you.",
+            "codes": []
+        },
+        {
+            "utterance_id": "17",
+            "timestamp": "00:01:05.780",
+            "speaker": "Speaker 2",
+            "text": "It's a possibility, yes. Do you think so? Yes or no.",
+            "codes": []
+        },
+        {
+            "utterance_id": "18",
+            "timestamp": "00:01:10.840",
+            "speaker": "Speaker 1 :coding: Perceived snakebite risk (perceived risk)",
+            "text": "Yes, because anyway, since you're already serving them here, that's the truth.",
+            "codes": []
+        },
+        {
+            "utterance_id": "19",
+            "timestamp": "00:01:16.640",
+            "speaker": "Speaker 2",
+            "text": "Yes, of course. And have any of your animals ever been bitten by a snake? Like a pet or livestock?",
+            "codes": []
+        },
+        {
+            "utterance_id": "20",
+            "timestamp": "00:01:28.860",
+            "speaker": "Speaker 1 :coding: Perceived snakebite risk (perceived risk)",
+            "text": "One buffalo, yes. Someone killed two of my buffaloes.",
+            "codes": []
+        },
+        {
+            "utterance_id": "21",
+            "timestamp": "00:01:33.210",
+            "speaker": "Speaker 2",
+            "text": "Two buffaloes, okay.",
+            "codes": []
+        },
+        {
+            "utterance_id": "22",
+            "timestamp": "00:01:36.090",
+            "speaker": "Speaker 1",
+            "text": "And the healers who have pricked them leave them there, far away from here.",
+            "codes": []
+        },
+        {
+            "utterance_id": "23",
+            "timestamp": "00:01:40.480",
+            "speaker": "Speaker 2",
+            "text": "And do you know how they prevented it? And won't that prevent a more severe snake bite?",
+            "codes": []
+        },
+        {
+            "utterance_id": "24",
+            "timestamp": "00:01:47.850",
+            "speaker": "Speaker 1 :coding: (Prevention knowledge (no knowledge))",
+            "text": "Well, no, I don't know. Okay.",
+            "codes": []
+        },
+        {
+            "utterance_id": "25",
+            "timestamp": "00:01:51.030",
+            "speaker": "Speaker 2",
+            "text": "And what would you do if a snake died?",
+            "codes": []
+        },
+        {
+            "utterance_id": "26",
+            "timestamp": "00:01:54.850",
+            "speaker": "Speaker 1 :coding: Treatment knowledge (accurate)",
+            "text": "First, get to the hospital.",
+            "codes": []
+        },
+        {
+            "utterance_id": "27",
+            "timestamp": "00:01:58.410",
+            "speaker": "Speaker 2",
+            "text": "Would you go to Carmen or another hospital, or where?",
+            "codes": []
+        },
+        {
+            "utterance_id": "28",
+            "timestamp": "00:02:01.850",
+            "speaker": "Speaker 1 :coding: Health services logistics (neutral)",
+            "text": "To Carmen, because that's where they send you first, so they can send you somewhere else. Because right now in Carmen, they already have that medicine for flea bites.",
+            "codes": []
+        },
+        {
+            "utterance_id": "29",
+            "timestamp": "00:02:14.080",
+            "speaker": "Speaker 2",
+            "text": "Would you trust the hospital in Carmen to treat a snake bite?",
+            "codes": []
+        },
+        {
+            "utterance_id": "30",
+            "timestamp": "00:02:18.390",
+            "speaker": "Speaker 1 :coding: (Healthcare system trust (mistrust in the hospital in Carmen))",
+            "text": "No, I don't trust them.",
+            "codes": []
+        },
+        {
+            "utterance_id": "31",
+            "timestamp": "00:02:20.110",
+            "speaker": "Speaker 2",
+            "text": "Why?",
+            "codes": []
+        },
+        {
+            "utterance_id": "32",
+            "timestamp": "00:02:21.260",
+            "speaker": "Speaker 1 :coding: ()Healthcare system trust (mistrust in the hospital in Carmen)",
+            "text": "Because there have been very bad recommendations from there, the hospital, always there, always makes you come in today, always refers you to a hospital at the end to help you there. Yes.",
+            "codes": []
+        },
+        {
+            "utterance_id": "33",
+            "timestamp": "00:02:33.140",
+            "speaker": "Speaker 2",
+            "text": "And if you need to go to the hospital, is that difficult for you or easy?",
+            "codes": []
+        },
+        {
+            "utterance_id": "34",
+            "timestamp": "00:02:41.660",
+            "speaker": "Speaker 1",
+            "text": "Well, always. Whatever happens, we always go above and beyond.",
+            "codes": []
+        },
+        {
+            "utterance_id": "35",
+            "timestamp": "00:02:46.750",
+            "speaker": "Speaker 2",
+            "text": "And where do you think a snake is more likely to die? In the countryside or in the house?",
+            "codes": []
+        },
+        {
+            "utterance_id": "36",
+            "timestamp": "00:02:59.910",
+            "speaker": "Speaker 1 :coding: (Perceived snakebite risk in the home)",
+            "text": "Well, always, most of the time, more than anything, it's not out there, because here, here in the house, I've found them too. Me, damn it, thank you. Here we killed a big one once, a big one. And I killed it like that at night, when I went up to check on the animals. That's how I found it too, and I gave it to you And I killed them because I didn't like them.",
+            "codes": []
+        },
+        {
+            "utterance_id": "37",
+            "timestamp": "00:03:22.410",
+            "speaker": "Speaker 2",
+            "text": "Sure. Can you tell the difference between poisonous and non-poisonous snakes? What? Can you tell the difference between poisonous and non-poisonous snakes?",
+            "codes": []
+        },
+        {
+            "utterance_id": "38",
+            "timestamp": "00:03:37.280",
+            "speaker": "Speaker 1 :coding: (Snake identification (accurate))",
+            "text": "Yes, because there are snakes that aren't poisonous, and there are snakes that are really big, like the ones I have, which are very poisonous. The coral snake and the rabojajil.",
+            "codes": []
+        },
+        {
+            "utterance_id": "39",
+            "timestamp": "00:03:50.350",
+            "speaker": "Speaker 2",
+            "text": "Yes.",
+            "codes": []
+        },
+        {
+            "utterance_id": "40",
+            "timestamp": "00:03:53.440",
+            "speaker": "Speaker 1 :coding: (Snake identification (accurate))",
+            "text": "And there's another snake to watch out for. And the rattlesnake. Yes.",
+            "codes": []
+        },
+        {
+            "utterance_id": "41",
+            "timestamp": "00:04:02.840",
+            "speaker": "Speaker 2",
+            "text": "And what was it like in your case, Esterpiente? Was it the color, the skin, the head?",
+            "codes": []
+        },
+        {
+            "utterance_id": "42",
+            "timestamp": "00:04:09.260",
+            "speaker": "Speaker 1 :coding: (Snake identification (accurate))",
+            "text": "More than anything else, because of the head and the markings. I mean, it always shows every single one, and each snake is different.",
+            "codes": []
+        },
+        {
+            "utterance_id": "43",
+            "timestamp": "00:04:17.590",
+            "speaker": "Speaker 2",
+            "text": "Okay. And do you know of a case of a bruise caused by a snake?",
+            "codes": []
+        },
+        {
+            "utterance_id": "44",
+            "timestamp": "00:04:24.180",
+            "speaker": "Speaker 1 :coding: (Snakebite experience (yes))",
+            "text": "Yes, here, a neighbor, her husband, was bitten by a snake belonging to Don Alejandro. It bit him here.",
+            "codes": []
+        },
+        {
+            "utterance_id": "45",
+            "timestamp": "00:04:34.850",
+            "speaker": "Speaker 2",
+            "text": "And did he go to the hospital?",
+            "codes": []
+        },
+        {
+            "utterance_id": "46",
+            "timestamp": "00:04:39.180",
+            "speaker": "Speaker 1 :coding: (Snakebite experience (yes))",
+            "text": "It lasted a month, over there.",
+            "codes": []
+        },
+        {
+            "utterance_id": "47",
+            "timestamp": "00:04:42.390",
+            "speaker": "Speaker 2",
+            "text": "And did it happen in the field? Did the bite happen in the field or where?",
+            "codes": []
+        },
+        {
+            "utterance_id": "48",
+            "timestamp": "00:04:46.940",
+            "speaker": "Speaker 1 :coding: (Snakebite experience (yes))",
+            "text": "Yes, here, and I'll put the water here, and over there, sure, you'll have to put your foot on the snake and see where it bit you.",
+            "codes": []
+        },
+        {
+            "utterance_id": "49",
+            "timestamp": "00:04:57.150",
+            "speaker": "Speaker 2",
+            "text": "Well, I don't have any more questions, but do you have any more scientific facts about snakes, your knowledge of them, anything else scientific?",
+            "codes": []
+        },
+        {
+            "utterance_id": "50",
+            "timestamp": "00:05:07.440",
+            "speaker": "Speaker 1",
+            "text": "No, but it doesn't have any.",
+            "codes": []
+        },
+        {
+            "utterance_id": "51",
+            "timestamp": "00:05:09.750",
+            "speaker": "Speaker 2",
+            "text": "Well, the most important information is that after a snake bite, it is important to go to the hospital and it is important to know what kind of snake it was, because there are different antivenoms for different snakes. You can take a photo of the snake or you can kill it and take it to the hospital. But that's the most important thing to know. Yes. And yes, thank you very much, I have no further questions. Okay.",
+            "codes": []
+        }
+    ]
+}

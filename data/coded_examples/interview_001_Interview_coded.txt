@@ -1,0 +1,112 @@
+Interview 1 2-3-25-01 – Cuatro Esquinas
+[00:00:06.560] - Speaker 2
+27 y/o, woman, free union, 27 years living in El Carmen, work at home, has children
+So, how old are you?
+[00:00:08.200] - Speaker 1
+23. 27, sorry. Give me a year, if you see. He takes away the years. He takes away the years.
+[00:00:15.890] - Speaker 2
+And what do you do for a living?
+[00:00:18.220] - Speaker 1
+At my house.
+[00:00:21.520] - Speaker 2
+And are you married or single?
+[00:00:23.430] - Speaker 1
+Free union.
+[00:00:25.310] - Speaker 2
+And how many children do you have?
+[00:00:27.500] - Speaker 1
+One.
+[00:00:28.910] - Speaker 2
+And how many years have you lived in El Carmen?
+[00:00:32.940] - Speaker 1
+All my life. Okay.
+[00:00:35.990] - Speaker 2
+Do you think it's likely that you'll be bitten by a snake here in Carmen?
+[00:00:43.350] - Speaker 1
+Well, here in the countryside we are all exposed. Yes.
+[00:00:47.820] - Speaker 2
+And why do you feel this way?
+[00:00:52.830] - Speaker 1 :coding: (Perceived snakebite risk (perceived risk))
+Exposed to the possibility of being stung. Well, seeing as we're out in the countryside, we can find animals anywhere. We've even found three snakes here in the house already. So, we're exposed to the possibility that we might suddenly see them or something, and then at that moment they could sting us.
+[00:01:12.120] - Speaker 2
+And have any of your animals been bitten by a snake?
+[00:01:16.280] - Speaker 1
+No, thank God, no.
+[00:01:20.150] - Speaker 2
+And do you know how to prevent a snakebite?
+[00:01:25.270] - Speaker 1 :coding: Prevention knowledge (other)
+From what I've heard, no. Many people tell me that to scare them away from the house and keep them away, they use a device called a Criolina, which makes them move away. Well, that's a myth, I don't know if it's true or not. Well, what are we going to do, but they still got in.
+[00:01:44.550] - Speaker 2
+Okay, perfect. Those are the methods of prevention, you know.
+[00:01:49.770] - Speaker 1 :coding: (Prevention knowledge (accurate))
+And the cleaning, but nevertheless, we are here, pass a hose, then they are also many to the wet.
+[00:01:58.090] - Speaker 2
+Yes, exactly.
+[00:01:59.690] - Speaker 1 :coding: Prevention knowledge (accurate)
+No Yes, to having my eyes open at all times.
+[00:02:02.930] - Speaker 2
+And what would you do if you were bitten by a snake?
+[00:02:13.980] - Speaker 1 :coding: Treatment knowledge (inaccurate)
+I don't know what reaction I would have. The only thing I have heard is that you have to act like a tourniquet to stop the poison, but I don't know if it's true or not. I've heard something else about absorbing the sting. But I listened and there was a training session, they told me that it wasn't true, that it was false, because you were also ingesting the poison that you were taking, something like that is what I heard.
+[00:02:42.360] - Speaker 2
+And would you trust the hospital, Carmen de Apicala, to cure a snake bite?
+[00:02:56.860] - Speaker 1 :coding: Healthcare system trust (mistrust in the hospital in Carmen)
+Am I being honest with you? No. Okay.
+[00:02:58.270] - Speaker 2
+Why?
+[00:02:59.510] - Speaker 1 :coding: Healthcare system trust (mistrust in the hospital in Carmen)
+Because, well, if they only present themselves, well here in the hospital there are mild cases, sometimes it's stomach pain, re-fracture and everything here is very delayed. They don't give you the proper attention that you should get. If you don't ask for a voluntary discharge to go somewhere else where you really do receive proper attention, well here they practically left us, we were left to die, to put it another way.
+[00:03:25.760] - Speaker 2
+And do you have and trust areas in another hospital close to Carmen de Apicalá?
+[00:03:35.450] - Speaker 1 :coding: Healthcare system trust (trust in hospitals outside of Carmen)
+A hospital near Carmen de Apicalá, because I always go, is for Melgar or for Girardó, to one of the two places, the clinic with the subsidy or the hospital for my age. Most of all, I go to the clinic with a subsidy.
+[00:03:48.320] - Speaker 2
+Why?
+[00:03:50.290] - Speaker 1 :coding: Healthcare system trust (trust in hospitals outside of Carmen)
+Well, I have received better and faster service.
+[00:03:55.800] - Speaker 2
+And what would you do if a family member was bitten by a snake?
+[00:04:02.220] - Speaker 1 :coding: Treatment knowledge (accurate)
+No, the fastest thing to do is to go to a medical center, right? Yes. Because, really, I don't know how to give first aid to someone who has been bitten. We haven't been given that kind of training here, even though we are exposed to snake bites. Let's see how we can act in the face of such a process.
+[00:04:29.160] - Speaker 2
+Yes, okay. And don't you use a tourniquet for your family?
+[00:04:35.370] - Speaker 1 :coding: Treatment knowledge (inaccurate)
+Well, about the time that I Well, what I said about a tourniquet not working quickly, well, it would work by means of the tourniquet, because that's how I would say it, or the way I know that supposedly the snake's venom doesn't work quickly.
+[00:04:52.480] - Speaker 2
+Yes, okay, done. And where do you feel it is more likely that a snake will bite you? In the countryside or at home?
+[00:05:05.970] - Speaker 1 :coding: Perceived snakebite risk (location: other)
+I would say everywhere. Being here, I would say that we are exposed everywhere. And I can tell you that we have already found snakes right here, even under the bed. So, they are on the road. Sometimes you are on the motorbike and you come across them just by going past the road. So, you can find a snake here anywhere.
+[00:05:27.990] - Speaker 2
+Do you know how to identify poisonous or venomous snakes?
+[00:05:34.130] - Speaker 1 :coding: Snake identification (no knowledge)
+That I don't know.
+[00:05:35.090] - Speaker 2
+It's difficult.
+[00:05:36.110] - Speaker 1 :coding: Snake identification (no knowledge)
+That I don't know. The person who does know more or less is my husband. And when I find them I'll ask him what kind of snake it is, he'll more or less tell me the name. Yes. But
+[00:05:46.340] - Speaker 2
+It's difficult, if a false or
+[00:05:49.280] - Speaker 1
+Yes, exactly.
+[00:05:51.720] - Speaker 2
+Okay. And are there challenges or problems? And how do you go about preventing snake bites in Carmen?
+[00:06:04.970] - Speaker 1 :coding: Perceived snakebite risk (perceived risk), prevention knowledge (no knowledge)
+Do you think so? Well, as I said before, there's no one here who can tell us how to prevent that. Not through any channel. You see here that they train you as a kind of I would say it would be a kind of training in how to act. If there is a way to prevent it or a way to act if there is a bite, or what can we do to keep the maids from getting bitten? Or at least prevent it in the home, which is where you are most... Or in the part where you work in the fields, you are always going to be at risk.
+[00:06:45.000] - Speaker 2
+And also a similar question, but are there challenges or problems in treating snake bites in Carmen de la Picada?
+[00:06:59.880] - Speaker 1
+No, I might give you the same answer.
+[00:07:02.560] - Speaker 2
+Yes, exactly. And what would be useful in facing these challenges?
+[00:07:11.970] - Speaker 1 :coding: Perceived snakebite risk (no knowledge)
+As I mentioned before, training. Yes, someone to tell us.
+[00:07:19.600] - Speaker 2
+And the last question is: do you know of any cases of snake-grinding?
+[00:07:26.550] - Speaker 1 :coding: Snakebite experience 
+The lady present. Yes. Okay, ready.
+[00:07:37.850] - Speaker 2
+Do you have anything else to say?
+[00:07:40.130] - Speaker 1
+No.
+[00:07:40.940] - Speaker 2
+Okay. Thank you very much. Okay, perfect. Thank you very much.

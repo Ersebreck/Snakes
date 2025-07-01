@@ -1,0 +1,104 @@
+Interview 148 3-04-25-01 – Missiones
+Man, 52 years old, works on the farm, free union, has lived in Carmen all his life, has children
+[00:00:00.850] - Speaker 2
+What's your name?
+[00:00:02.230] - Speaker 1
+Juan Pablo.
+[00:00:03.240] - Speaker 2
+And do you agree with the interview in the recording?
+[00:00:08.150] - Speaker 1
+Yes, it is.
+[00:00:10.400] - Speaker 2
+How old are you?
+[00:00:12.040] - Speaker 1
+I am 52 years old.
+[00:00:14.360] - Speaker 2
+And what do you do for a living? What do you do for a living?
+[00:00:16.800] - Speaker 1
+I work here on the farm. Hello. Weeding, spraying, checking on the animals, the buffalo.
+[00:00:27.190] - Speaker 2
+The buffalo are theirs, yes. Yes. And are you married or single?
+[00:00:35.150] - Speaker 1
+No, because I'm in a common-law marriage with her.
+[00:00:39.540] - Speaker 2
+Do you have children?
+[00:00:41.040] - Speaker 1
+Yes, but not with her.
+[00:00:44.240] - Speaker 2
+And how many years have you lived here, in Carmen?
+[00:00:47.710] - Speaker 1
+I've been here more than anyone else. Everything has happened here. I used to live here.
+[00:00:54.620] - Speaker 2
+And, well, do you think it's likely that you'll get bitten by a snake here?
+[00:01:01.490] - Speaker 1
+What do you mean? That a snake suddenly bites you.
+[00:01:05.780] - Speaker 2
+It's a possibility, yes. Do you think so? Yes or no.
+[00:01:10.840] - Speaker 1 :coding: Perceived snakebite risk (perceived risk)
+Yes, because anyway, since you're already serving them here, that's the truth.
+[00:01:16.640] - Speaker 2
+Yes, of course. And have any of your animals ever been bitten by a snake? Like a pet or livestock?
+[00:01:28.860] - Speaker 1 :coding: Perceived snakebite risk (perceived risk)
+One buffalo, yes. Someone killed two of my buffaloes.
+[00:01:33.210] - Speaker 2 
+Two buffaloes, okay.
+[00:01:36.090] - Speaker 1
+And the healers who have pricked them leave them there, far away from here.
+[00:01:40.480] - Speaker 2
+And do you know how they prevented it? And won't that prevent a more severe snake bite?
+[00:01:47.850] - Speaker 1 :coding: (Prevention knowledge (no knowledge))
+Well, no, I don't know. Okay.
+[00:01:51.030] - Speaker 2
+And what would you do if a snake died?
+[00:01:54.850] - Speaker 1 :coding: Treatment knowledge (accurate)
+First, get to the hospital.
+[00:01:58.410] - Speaker 2
+Would you go to Carmen or another hospital, or where?
+[00:02:01.850] - Speaker 1 :coding: Health services logistics (neutral)
+To Carmen, because that's where they send you first, so they can send you somewhere else. Because right now in Carmen, they already have that medicine for flea bites.
+[00:02:14.080] - Speaker 2
+Would you trust the hospital in Carmen to treat a snake bite?
+[00:02:18.390] - Speaker 1 :coding: (Healthcare system trust (mistrust in the hospital in Carmen))
+No, I don't trust them.
+[00:02:20.110] - Speaker 2
+Why?
+[00:02:21.260] - Speaker 1 :coding: ()Healthcare system trust (mistrust in the hospital in Carmen)
+Because there have been very bad recommendations from there, the hospital, always there, always makes you come in today, always refers you to a hospital at the end to help you there. Yes.
+[00:02:33.140] - Speaker 2
+And if you need to go to the hospital, is that difficult for you or easy?
+[00:02:41.660] - Speaker 1
+Well, always. Whatever happens, we always go above and beyond.
+[00:02:46.750] - Speaker 2
+And where do you think a snake is more likely to die? In the countryside or in the house?
+[00:02:59.910] - Speaker 1 :coding: (Perceived snakebite risk in the home)
+Well, always, most of the time, more than anything, it's not out there, because here, here in the house, I've found them too. Me, damn it, thank you. Here we killed a big one once, a big one. And I killed it like that at night, when I went up to check on the animals. That's how I found it too, and I gave it to you And I killed them because I didn't like them.
+[00:03:22.410] - Speaker 2
+Sure. Can you tell the difference between poisonous and non-poisonous snakes? What? Can you tell the difference between poisonous and non-poisonous snakes?
+[00:03:37.280] - Speaker 1 :coding: (Snake identification (accurate))
+Yes, because there are snakes that aren't poisonous, and there are snakes that are really big, like the ones I have, which are very poisonous. The coral snake and the rabojajil.
+[00:03:50.350] - Speaker 2
+Yes.
+[00:03:53.440] - Speaker 1 :coding: (Snake identification (accurate))
+And there's another snake to watch out for. And the rattlesnake. Yes.
+[00:04:02.840] - Speaker 2
+And what was it like in your case, Esterpiente? Was it the color, the skin, the head?
+[00:04:09.260] - Speaker 1 :coding: (Snake identification (accurate))
+More than anything else, because of the head and the markings. I mean, it always shows every single one, and each snake is different.
+[00:04:17.590] - Speaker 2
+Okay. And do you know of a case of a bruise caused by a snake?
+[00:04:24.180] - Speaker 1 :coding: (Snakebite experience (yes))
+Yes, here, a neighbor, her husband, was bitten by a snake belonging to Don Alejandro. It bit him here.
+[00:04:34.850] - Speaker 2
+And did he go to the hospital?
+[00:04:39.180] - Speaker 1 :coding: (Snakebite experience (yes))
+It lasted a month, over there.
+[00:04:42.390] - Speaker 2
+And did it happen in the field? Did the bite happen in the field or where?
+[00:04:46.940] - Speaker 1 :coding: (Snakebite experience (yes))
+Yes, here, and I'll put the water here, and over there, sure, you'll have to put your foot on the snake and see where it bit you.
+[00:04:57.150] - Speaker 2
+Well, I don't have any more questions, but do you have any more scientific facts about snakes, your knowledge of them, anything else scientific?
+[00:05:07.440] - Speaker 1
+No, but it doesn't have any.
+[00:05:09.750] - Speaker 2
+Well, the most important information is that after a snake bite, it is important to go to the hospital and it is important to know what kind of snake it was, because there are different antivenoms for different snakes. You can take a photo of the snake or you can kill it and take it to the hospital. But that's the most important thing to know. Yes. And yes, thank you very much, I have no further questions. Okay.
